@@ -1,13 +1,15 @@
 {
-	"story": [{
+	"messages": [{
 			"id": 1,
-			"title": "story title 1",
-			"categorie": "story categorie A"
+			"text": "1 What are you up to?"
 		},
 		{
 			"id": 2,
-			"title": "story title 2",
-			"categorie": "story categorie B"
+			"text": "2 What are you up to?"
+		},
+		{
+			"id": 3,
+			"text": "3 What are you up to?"
 		}
 	],
 	"profile": {
