@@ -1,9 +1,16 @@
-[
-	{
-		"categorie"	: "Story category",
-		"chapitre"	: "A chapitre",
-		"contenu"	:  "
-			contenu Test Json Server
-		"
+{
+	"story": [{
+			"id": 1,
+			"title": "story title 1",
+			"categorie": "story categorie A"
+		},
+		{
+			"id": 2,
+			"title": "story title 2",
+			"categorie": "story categorie B"
+		}
+	],
+	"profile": {
+		"name": "test Json server"
 	}
-]
+}
