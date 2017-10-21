@@ -1,41 +1,16 @@
 {
 	"story": [{
-			"id": 1,
-			"read": [{
-				"messages": [{
-						"text": "1 What are you up to?"
-					},
-					{
-						"text": "1 What are you up to?"
-					}
-				]
-			}]
-		},
-		{
-			"id": 2,
-			"read": [{
-				"messages": [{
-						"text": "2 What are you up to?"
-					},
-					{
-						"text": "2 What are you up to?"
-					}
-				]
-			}]
-		},
-		{
-			"id": 3,
-			"read": [{
-				"messages": [{
-						"text": "3 What are you up to?"
-					},
-					{
-						"text": "3 What are you up to?"
-					}
-				]
-			}]
+		"id": 1,
+		"read": {
+			"messages": [{
+					"text": "1 What are you up to?"
+				},
+				{
+					"text": "1 What are you up to?"
+				}
+			]
 		}
-	],
+	}],
 	"profile": {
 		"name": "test Json server"
 	}
